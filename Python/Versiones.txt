@@ -1,0 +1,8 @@
+VERSIONES
+! Creado en 1989
+! Python 1.0 lanzado en 1994
+! Python 2.0 lanzado en 2000
+! Python 3.0 lanzado en 2008
+! Existe una dualidad de versiones:
+• Python 2.7.10 lanzado en 2015
+• Python 3.4.3 lanzado en 2015

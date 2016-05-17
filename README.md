@@ -1,2 +1,4 @@
 # Quiz1
-Quiz
+
+Nombre: Luis Rodríguez
+Cedula: 8-907-740
